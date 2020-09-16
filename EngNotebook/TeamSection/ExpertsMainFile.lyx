@@ -4,7 +4,7 @@
 \begin_header
 \save_transient_properties true
 \origin unavailable
-\textclass extbook
+\textclass article
 \use_default_options true
 \maintain_unincluded_children false
 \language english
@@ -29,7 +29,6 @@
 \bibtex_command default
 \index_command default
 \paperfontsize default
-\spacing single
 \use_hyperref false
 \papersize default
 \use_geometry false
@@ -45,7 +44,6 @@
 \use_package undertilde 1
 \cite_engine basic
 \cite_engine_type default
-\biblio_style plain
 \use_bibtopic false
 \use_indices false
 \paperorientation portrait
@@ -78,75 +76,7 @@
 \begin_body
 
 \begin_layout Standard
-Team
-\end_layout
-
-\begin_layout Section
-Team Summary Page 
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset include
-LatexCommand input
-preview true
-filename "TeamSummaryPageMainFile.lyx"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Section
-Team Bios
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset include
-LatexCommand input
-preview true
-filename "TeamBiosMainFile.lyx"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Section
-Sponsors 
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset include
-LatexCommand input
-preview true
-filename "SponsorsMainFile.lyx"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Section
-Outreach
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset include
-LatexCommand input
-preview true
-filename "OutreachMainFile.lyx"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Section
-Experts 
-\end_layout
-
-\begin_layout Standard
-
+Experts
 \end_layout
 
 \end_body
