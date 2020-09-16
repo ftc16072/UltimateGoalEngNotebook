@@ -81,5 +81,80 @@
 Team
 \end_layout
 
+\begin_layout Section
+Team Summary Page 
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand input
+preview true
+filename "TeamSummaryPageMainFile.lyx"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Team Bios
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand input
+preview true
+filename "TeamBiosMainFile.lyx"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Sponsors 
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand input
+preview true
+filename "SponsorsMainFile.lyx"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Outreach
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand input
+preview true
+filename "OutreachMainFile.lyx"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Experts 
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand input
+preview true
+filename "ExpertsMainFile.lyx"
+
+\end_inset
+
+
+\end_layout
+
 \end_body
 \end_document
