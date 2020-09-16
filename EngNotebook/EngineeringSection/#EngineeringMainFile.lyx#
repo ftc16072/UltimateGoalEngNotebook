@@ -82,15 +82,42 @@ Engineering Section
 \end_layout
 
 \begin_layout Section
+Strategy
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand input
+preview true
+filename "Strategy/StrategyMainFIle.lyx"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Problems encountered during season
+\end_layout
+
+\begin_layout Section
 Minutes
 \end_layout
 
 \begin_layout Section
-Code Explanation
+Code
 \end_layout
 
-\begin_layout Standard
+\begin_layout Section
+How we use math
+\end_layout
 
+\begin_layout Section
+CAD
+\end_layout
+
+\begin_layout Section
+History of Selected Tasks
 \end_layout
 
 \end_body
