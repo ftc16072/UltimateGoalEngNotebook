@@ -5,3 +5,6 @@
 *.lyx~
 \#*\#
 *.emergency
+
+# idea
+.idea\
