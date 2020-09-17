@@ -81,5 +81,93 @@
 Team plan
 \end_layout
 
+\begin_layout Section
+Strategic Plan
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand input
+preview true
+filename "StrategicPlanMainFile.lyx"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Business Plan
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand input
+preview true
+filename "BusinessPlanMainFile.lyx"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Season Goals
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand input
+filename "SeasonGoalsMainFile.lyx"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Preseason Goals
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand input
+filename "PreseasonGoalsMainFile.lyx"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Budget
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand input
+preview true
+filename "BudgetMainFile.lyx"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Sustainability Plan
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand input
+preview true
+filename "SustainabilityPlanMainFile.lyx"
+
+\end_inset
+
+
+\end_layout
+
 \end_body
 \end_document
