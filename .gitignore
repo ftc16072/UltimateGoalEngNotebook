@@ -1,8 +1,7 @@
-
+# Mac thumbnails
 .DS_Store
-*/.DS_Store
-*/*/.DS_Store
-*.lyx~
-*/*.lyx~
-*/*/*.lyx~
 
+# LYX temp files
+*.lyx~
+\#*\#
+*.emergency
