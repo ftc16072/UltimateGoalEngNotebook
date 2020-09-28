@@ -4,7 +4,7 @@
 # LYX temp files
 *.lyx~
 \#*\#
-*.emergency
+*.lyx.emergency*
 
 # idea
 .idea\
