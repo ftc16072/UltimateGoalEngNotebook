@@ -77,11 +77,7 @@
 
 \begin_body
 
-\begin_layout Standard
-Team
-\end_layout
-
-\begin_layout Section
+\begin_layout Chapter
 Team Summary Page 
 \end_layout
 
@@ -96,7 +92,7 @@ filename "TeamSummaryPageMainFile.lyx"
 
 \end_layout
 
-\begin_layout Section
+\begin_layout Chapter
 Team Bios
 \end_layout
 
@@ -111,7 +107,7 @@ filename "TeamBiosMainFile.lyx"
 
 \end_layout
 
-\begin_layout Section
+\begin_layout Chapter
 Sponsors 
 \end_layout
 
@@ -126,7 +122,7 @@ filename "SponsorsMainFile.lyx"
 
 \end_layout
 
-\begin_layout Section
+\begin_layout Chapter
 Outreach
 \end_layout
 
@@ -141,7 +137,7 @@ filename "OutreachMainFile.lyx"
 
 \end_layout
 
-\begin_layout Section
+\begin_layout Chapter
 Experts 
 \end_layout
 

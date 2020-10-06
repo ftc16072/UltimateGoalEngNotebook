@@ -78,95 +78,27 @@
 \begin_body
 
 \begin_layout Standard
-Team plan
-\end_layout
-
-\begin_layout Chapter
-Strategic Plan
+Math
 \end_layout
 
 \begin_layout Standard
 \begin_inset CommandInset include
-LatexCommand input
-preview true
-filename "StrategicPlanMainFile.lyx"
+LatexCommand include
+filename "MecanumDriveMath.lyx"
 
 \end_inset
 
 
 \end_layout
 
-\begin_layout Chapter
-Business Plan
-\end_layout
-
 \begin_layout Standard
 \begin_inset CommandInset include
-LatexCommand input
-preview true
-filename "BusinessPlanMainFile.lyx"
+LatexCommand include
+filename "ShooterMath.lyx"
 
 \end_inset
 
-
-\end_layout
-
-\begin_layout Chapter
-Season Goals
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset include
-LatexCommand input
-filename "SeasonGoalsMainFile.lyx"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Chapter
-Preseason Goals
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset include
-LatexCommand input
-filename "PreseasonGoalsMainFile.lyx"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Chapter
-Budget
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset include
-LatexCommand input
-preview true
-filename "BudgetMainFile.lyx"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Chapter
-Sustainability Plan
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset include
-LatexCommand input
-preview true
-filename "SustainabilityPlanMainFile.lyx"
-
-\end_inset
-
-
+x
 \end_layout
 
 \end_body
