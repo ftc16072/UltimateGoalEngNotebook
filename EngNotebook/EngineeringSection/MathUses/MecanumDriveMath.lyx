@@ -77,7 +77,7 @@
 
 \begin_body
 
-\begin_layout Title
+\begin_layout Section
 Describing Mecanum Programming
 \end_layout
 
@@ -113,13 +113,10 @@ The BL (back left) wheel moves like this
 
 \begin_layout Standard
 \begin_inset Float table
+placement h
 wide false
 sideways false
 status open
-
-\begin_layout Plain Layout
-
-\end_layout
 
 \begin_layout Plain Layout
 \begin_inset Caption Standard

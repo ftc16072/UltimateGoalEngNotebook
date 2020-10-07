@@ -78,10 +78,6 @@
 \begin_body
 
 \begin_layout Standard
-Math
-\end_layout
-
-\begin_layout Standard
 \begin_inset CommandInset include
 LatexCommand include
 filename "MecanumDriveMath.lyx"
@@ -98,7 +94,7 @@ filename "ShooterMath.lyx"
 
 \end_inset
 
-x
+
 \end_layout
 
 \end_body
