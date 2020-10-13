@@ -82,7 +82,43 @@ Shooter Math
 \end_layout
 
 \begin_layout Standard
-shooty
+Horizontal Displacement: ∆x = Voxt Vo 
+\end_layout
+
+\begin_layout Standard
+Velocity for Horizontal Plane: Vx = Vox 
+\end_layout
+
+\begin_layout Standard
+Initial Velocity for Horizontal Plane: Vox = cos𝚹 
+\end_layout
+
+\begin_layout Standard
+Vertical displacement: ∆y = Vosin𝚹- ½gt^2 
+\end_layout
+
+\begin_layout Standard
+Velocity for Vertical Plane: Vy = Voy-gt 
+\end_layout
+
+\begin_layout Standard
+Initial Velocity for Vertical plane: Voy = Vsin𝚹
+\end_layout
+
+\begin_layout Standard
+Known Variables: ∆x = 1.483 meters ∆y = 0.9552 meters
+\end_layout
+
+\begin_layout Standard
+Unknown Variables: 𝚹(theta), Vo(Velocity), t(time)
+\end_layout
+
+\begin_layout Standard
+Vertical Component: 0.9652 = Vosin𝚹t- ½(9.8)t^2
+\end_layout
+
+\begin_layout Standard
+Horizontal Component: 1.483 = (Vocos𝚹)(t) 
 \end_layout
 
 \end_body
