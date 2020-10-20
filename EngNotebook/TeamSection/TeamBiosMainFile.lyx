@@ -78,7 +78,649 @@
 \begin_body
 
 \begin_layout Standard
-Team Bios 
+Team Bios
+\end_layout
+
+\begin_layout Standard
+\begin_inset Tabular
+<lyxtabular version="3" rows="13" columns="2">
+<features islongtable="true" longtabularalignment="center">
+<column alignment="center" valignment="top" width="6cm">
+<column alignment="center" valignment="top" width="6cm">
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Picture
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Bio 
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="1" alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none" width="5cm">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Name: Andrew 
+\end_layout
+
+\begin_layout Plain Layout
+Age: 15
+\end_layout
+
+\begin_layout Plain Layout
+Grade: 10th
+\end_layout
+
+\begin_layout Plain Layout
+Team Role / Leaning: 
+\end_layout
+
+\begin_layout Plain Layout
+First History: 4 Years FLL & 1 year of FTC 
+\end_layout
+
+\begin_layout Plain Layout
+First Future: I plan on continuing FTC and volunteering after i age out
+ 
+\end_layout
+
+\begin_layout Plain Layout
+Outside of robotics: I run varsity XC and Track for GHHS outside of FTC.
+ I also enjoy playing ping pong and hanging out with friends.
+ 
+\end_layout
+
+\begin_layout Plain Layout
+What GP means to me: GP is being excited for others accomplishments and
+ knowing that winning isn’t the only measure of success.
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Name: Arjun
+\end_layout
+
+\begin_layout Plain Layout
+Age: 13
+\end_layout
+
+\begin_layout Plain Layout
+Grade: 8th 
+\end_layout
+
+\begin_layout Plain Layout
+Team Role / Leaning: 
+\end_layout
+
+\begin_layout Plain Layout
+FIRST history: 3 years of FLL
+\end_layout
+
+\begin_layout Plain Layout
+FIRST future: I plan on continuing FTC and move on to FRC and continue volunteer
+ing
+\end_layout
+
+\begin_layout Plain Layout
+Outside of robotics: I am an avid photographer and enjoy playing and watching
+ football and cricket
+\end_layout
+
+\begin_layout Plain Layout
+What GP means to me: GP is about competing positively and encouraging and
+ helping others to succeed 
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Name: Chirag
+\end_layout
+
+\begin_layout Plain Layout
+Age: 14 
+\end_layout
+
+\begin_layout Plain Layout
+Grade: 9th 
+\end_layout
+
+\begin_layout Plain Layout
+Team Role / Leaning: 
+\end_layout
+
+\begin_layout Plain Layout
+FIRST History: 4 years of FLL 1 year of FTC 
+\end_layout
+
+\begin_layout Plain Layout
+FIRST Future: More FTC and Volunteering, possibly FRC and mentoring.
+ 
+\end_layout
+
+\begin_layout Plain Layout
+Outside of robotics: I've done BSA and fencing for a few years.
+ I also like to play games and hang out with friends.
+ What GP means to me: To me GP means to not win at the cost of others, always
+ be respectful to your allies & opponents.
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Name: Eric
+\end_layout
+
+\begin_layout Plain Layout
+Age: 15 
+\end_layout
+
+\begin_layout Plain Layout
+Grade: 10th 
+\end_layout
+
+\begin_layout Plain Layout
+Team Role / Leaning: 
+\end_layout
+
+\begin_layout Plain Layout
+FIRST history:
+\end_layout
+
+\begin_layout Plain Layout
+FIRST future:
+\end_layout
+
+\begin_layout Plain Layout
+Outside of robotics: 
+\end_layout
+
+\begin_layout Plain Layout
+What GP means to me: 
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Name: Izaak
+\end_layout
+
+\begin_layout Plain Layout
+Age: 15 
+\end_layout
+
+\begin_layout Plain Layout
+Grade: 10th 
+\end_layout
+
+\begin_layout Plain Layout
+Team Role / Leaning: 
+\end_layout
+
+\begin_layout Plain Layout
+FIRST history: 4 years of FLL and one year of FTC 
+\end_layout
+
+\begin_layout Plain Layout
+FIRST future: I plan on continuing through FTC and volunteering in FIRST
+ tournaments.
+ 
+\end_layout
+
+\begin_layout Plain Layout
+Outside of robotics: I enjoy playing all sorts of games (tabletop games,
+ video games, ect.) and I recently got into some digital art.
+ 
+\end_layout
+
+\begin_layout Plain Layout
+What GP means to me: To go out of our way to help everybody learn and have
+ fun
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row endhead="true" endfirsthead="true">
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Name: Nikhil
+\end_layout
+
+\begin_layout Plain Layout
+Age: 13 
+\end_layout
+
+\begin_layout Plain Layout
+Grade: 8th 
+\end_layout
+
+\begin_layout Plain Layout
+Team Role / Leaning: 
+\end_layout
+
+\begin_layout Plain Layout
+FIRST History: 3 years of FLL 
+\end_layout
+
+\begin_layout Plain Layout
+FIRST Future: I plan to continue with FTC through high school.
+ 
+\end_layout
+
+\begin_layout Plain Layout
+Outside of robotics: I like to read and create textures/mods for Minecraft.
+ I also like playing a variety of racket sports, like tennis and badminton.
+ 
+\end_layout
+
+\begin_layout Plain Layout
+What GP means to me: To me, GP means that we should all respect and empower
+ each other, so that we can all become better.
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Name: Nithya
+\end_layout
+
+\begin_layout Plain Layout
+Age: 16
+\end_layout
+
+\begin_layout Plain Layout
+Grade: 11th 
+\end_layout
+
+\begin_layout Plain Layout
+Team Role / Leaning: 
+\end_layout
+
+\begin_layout Plain Layout
+FIRST history: 5 years of FLL and 1 year of FTC
+\end_layout
+
+\begin_layout Plain Layout
+FIRST future: I plan on staying involved with FIRST by volunteering and
+ judging at competitions and mentoring teams
+\end_layout
+
+\begin_layout Plain Layout
+Outside of robotics: I enjoy dancing, biking and spending time with friends
+\end_layout
+
+\begin_layout Plain Layout
+What GP means to me: You try your best, learning from your faliures and
+ using that knowledge to help other teams.
+ 
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Name: Philip
+\end_layout
+
+\begin_layout Plain Layout
+Age: 16
+\end_layout
+
+\begin_layout Plain Layout
+Grade: 11th 
+\end_layout
+
+\begin_layout Plain Layout
+Team Role / Leaning: 
+\end_layout
+
+\begin_layout Plain Layout
+First History: 7 years of FLL and 1 year of FTC 
+\end_layout
+
+\begin_layout Plain Layout
+First Future: I plan on continuing FTC and volunteering in college and then
+ Coaching teams at some point
+\end_layout
+
+\begin_layout Plain Layout
+Outside of robotics: What is this you speak of? “Life outside???” lol I
+ am an avid reader of epic fantasy What GP means to me: GP is about doing
+ your best, and helping others to do their besti
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Name: Preeti
+\end_layout
+
+\begin_layout Plain Layout
+Age: 15 
+\end_layout
+
+\begin_layout Plain Layout
+Grade: 10th 
+\end_layout
+
+\begin_layout Plain Layout
+Team Role / Leaning: 
+\end_layout
+
+\begin_layout Plain Layout
+FIRST History: 4 years of FLL, 1 year of FTC 
+\end_layout
+
+\begin_layout Plain Layout
+FIRST Future: I plan on continuing first through volunteering, mentoring
+ teams, and FRC.
+ 
+\end_layout
+
+\begin_layout Plain Layout
+Outside of robotics: I like to create art and to spend time with friends.
+ I also enjoy being outdoors, such as camping and kayaking.
+ 
+\end_layout
+
+\begin_layout Plain Layout
+What GP means to me: The goal is for everyone to succeed, learn, and help
+ each other, not just our team.
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Name: Rishi
+\end_layout
+
+\begin_layout Plain Layout
+Age: 16
+\end_layout
+
+\begin_layout Plain Layout
+Grade: 11th 
+\end_layout
+
+\begin_layout Plain Layout
+Team Role / Leaning: 
+\end_layout
+
+\begin_layout Plain Layout
+FIRST history:
+\end_layout
+
+\begin_layout Plain Layout
+FIRST future:
+\end_layout
+
+\begin_layout Plain Layout
+Outside of robotics: 
+\end_layout
+
+\begin_layout Plain Layout
+What GP means to me: 
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Name: Ryan
+\end_layout
+
+\begin_layout Plain Layout
+Age: 13 
+\end_layout
+
+\begin_layout Plain Layout
+Grade: 8th 
+\end_layout
+
+\begin_layout Plain Layout
+Team Role / Leaning: 
+\end_layout
+
+\begin_layout Plain Layout
+First History: 3 Years FLL 
+\end_layout
+
+\begin_layout Plain Layout
+First Future: I plan on continuing FTC or going to FRC Life Outside of robotics:
+ I make videos and enjoy learning and playing with technology.
+ I love to read and reread and reread(and reread).
+ I do 2 Swim Teams(1 currently and will pick up another through school.,
+ XC (past tense) and plan on doing a sport in the spring as well this year.
+ 
+\end_layout
+
+\begin_layout Plain Layout
+What GP means to me: GP is being inclusive and helping others learn more.
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Name: Teja
+\end_layout
+
+\begin_layout Plain Layout
+Age: 13 
+\end_layout
+
+\begin_layout Plain Layout
+Grade: 8th 
+\end_layout
+
+\begin_layout Plain Layout
+Team Role / Leaning: 
+\end_layout
+
+\begin_layout Plain Layout
+FIRST History: 3 years of FLL and 2 years of Jr.
+ FLL 
+\end_layout
+
+\begin_layout Plain Layout
+FIRST Future: I plan to continue FIRST through FTC.
+ 
+\end_layout
+
+\begin_layout Plain Layout
+Outside of robotics: I like to read and spend time with friends.
+ I also enjoy biking and swimming.
+ 
+\end_layout
+
+\begin_layout Plain Layout
+What GP means to me: Winning is not everything - we are here to learn and
+ support each other
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
 \end_layout
 
 \end_body
