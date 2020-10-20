@@ -87,7 +87,7 @@ Team Bios
 <features islongtable="true" longtabularalignment="center">
 <column alignment="center" valignment="top" width="6cm">
 <column alignment="center" valignment="top" width="6cm">
-<row>
+<row endhead="true">
 <cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
 \begin_inset Text
 
@@ -288,19 +288,18 @@ Team Role / Leaning:
 \end_layout
 
 \begin_layout Plain Layout
-FIRST history:
+FIRST History: 5 years of FLL and 1 years of FTC 
 \end_layout
 
 \begin_layout Plain Layout
-FIRST future:
+FIRST Future: I plan on continuing in FTC aswell as mentoring and volunteering
+ in the future 
 \end_layout
 
 \begin_layout Plain Layout
-Outside of robotics: 
-\end_layout
-
-\begin_layout Plain Layout
-What GP means to me: 
+Outside of robotics: I enjoy competitive speedcubing, cycling, and playing
+ soccer What GP means to me: It’s about learning and sharing what you learned
+ with others
 \end_layout
 
 \end_inset
@@ -359,7 +358,7 @@ What GP means to me: To go out of our way to help everybody learn and have
 \end_inset
 </cell>
 </row>
-<row endhead="true" endfirsthead="true">
+<row>
 <cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
 \begin_inset Text
 
@@ -592,19 +591,21 @@ Team Role / Leaning:
 \end_layout
 
 \begin_layout Plain Layout
-FIRST history:
+FIRST History): 4 years of FLL, 2nd year of FTC 
 \end_layout
 
 \begin_layout Plain Layout
-FIRST future:
+FIRST Future: Continuing FTC throughout high school 
 \end_layout
 
 \begin_layout Plain Layout
-Outside of robotics: 
+Outside of robotics: Dance, Running and Volunteering (Key Club and other
+ Organizations) 
 \end_layout
 
 \begin_layout Plain Layout
-What GP means to me: 
+What GP means to me: Having a good attitude.
+ Helping others as you compete, so everyone continues to improve.
 \end_layout
 
 \end_inset
@@ -644,8 +645,12 @@ First History: 3 Years FLL
 \end_layout
 
 \begin_layout Plain Layout
-First Future: I plan on continuing FTC or going to FRC Life Outside of robotics:
- I make videos and enjoy learning and playing with technology.
+First Future: I plan on continuing FTC or going to FRC Life 
+\end_layout
+
+\begin_layout Plain Layout
+Outside of robotics: I make videos and enjoy learning and playing with technolog
+y.
  I love to read and reread and reread(and reread).
  I do 2 Swim Teams(1 currently and will pick up another through school.,
  XC (past tense) and plan on doing a sport in the spring as well this year.
