@@ -82,27 +82,51 @@ Shooter Math
 \end_layout
 
 \begin_layout Standard
-Horizontal Displacement: ∆x = Voxt Vo 
+Horizontal Displacement:
+\begin_inset Formula $∆x=VoxtVo$
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-Velocity for Horizontal Plane: Vx = Vox 
+Velocity for Horizontal Plane: 
+\begin_inset Formula $Vx=Vox$
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-Initial Velocity for Horizontal Plane: Vox = cos𝚹 
+Initial Velocity for Horizontal Plane: 
+\begin_inset Formula $Vox=cos\varTheta$
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-Vertical displacement: ∆y = Vosin𝚹- ½gt^2 
+Vertical displacement: ∆y = 
+\begin_inset Formula $Vosin\varTheta-\frac{1}{2}gt^{2}$
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-Velocity for Vertical Plane: Vy = Voy-gt 
+Velocity for Vertical Plane: 
+\begin_inset Formula $Vy=Voy-gt$
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-Initial Velocity for Vertical plane: Voy = Vsin𝚹
+Initial Velocity for Vertical plane: 
+\begin_inset Formula $Voy=Vsin\varTheta$
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -110,15 +134,27 @@ Known Variables: ∆x = 1.483 meters ∆y = 0.9552 meters
 \end_layout
 
 \begin_layout Standard
-Unknown Variables: 𝚹(theta), Vo(Velocity), t(time)
+Unknown Variables: 
+\begin_inset Formula $\varTheta$
+\end_inset
+
+(theta), Vo(Velocity), t(time)
 \end_layout
 
 \begin_layout Standard
-Vertical Component: 0.9652 = Vosin𝚹t- ½(9.8)t^2
+Vertical Component: 0.9652 = 
+\begin_inset Formula $Vosin\varTheta t-\frac{1}{2}(9.8)t^{2}$
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-Horizontal Component: 1.483 = (Vocos𝚹)(t) 
+Horizontal Component: 1.483 = 
+\begin_inset Formula $(Vocos\varTheta)(t)$
+\end_inset
+
+
 \end_layout
 
 \end_body
