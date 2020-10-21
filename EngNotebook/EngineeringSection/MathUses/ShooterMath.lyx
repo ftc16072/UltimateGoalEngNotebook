@@ -83,58 +83,93 @@ Shooter Math
 
 \begin_layout Standard
 Horizontal Displacement:
-\begin_inset Formula $∆x=VoxtVo$
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\Delta x=V_{0}xtV_{0}$
 \end_inset
 
 
 \end_layout
 
 \begin_layout Standard
-Velocity for Horizontal Plane: 
-\begin_inset Formula $Vx=Vox$
+Velocity for Horizontal Plane:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $Vx=V_{0}x$
 \end_inset
 
 
 \end_layout
 
 \begin_layout Standard
-Initial Velocity for Horizontal Plane: 
-\begin_inset Formula $Vox=cos\varTheta$
+Initial Velocity for Horizontal Plane:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $V_{0}x=cos\varTheta$
 \end_inset
 
 
 \end_layout
 
 \begin_layout Standard
-Vertical displacement: ∆y = 
-\begin_inset Formula $Vosin\varTheta-\frac{1}{2}gt^{2}$
+Vertical displacement: 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $∆y=V_{0}sin\varTheta-\frac{1}{2}gt^{2}$
 \end_inset
 
 
 \end_layout
 
 \begin_layout Standard
-Velocity for Vertical Plane: 
-\begin_inset Formula $Vy=Voy-gt$
+Velocity for Vertical Plane:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $Vy=V_{0}y-gt$
 \end_inset
 
 
 \end_layout
 
 \begin_layout Standard
-Initial Velocity for Vertical plane: 
-\begin_inset Formula $Voy=Vsin\varTheta$
+Initial Velocity for Vertical plane:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $V_{0}y=Vsin\varTheta$
 \end_inset
 
 
 \end_layout
 
 \begin_layout Standard
-Known Variables: ∆x = 1.483 meters ∆y = 0.9552 meters
+Known Variables: 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\Delta x=1.483meters$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\Delta y=0.9552meters$
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
 Unknown Variables: 
+\end_layout
+
+\begin_layout Standard
 \begin_inset Formula $\varTheta$
 \end_inset
 
@@ -142,16 +177,22 @@ Unknown Variables:
 \end_layout
 
 \begin_layout Standard
-Vertical Component: 0.9652 = 
-\begin_inset Formula $Vosin\varTheta t-\frac{1}{2}(9.8)t^{2}$
+Vertical Component: 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $0.9652=V_{0}sin\varTheta t-\frac{1}{2}(9.8)t^{2}$
 \end_inset
 
 
 \end_layout
 
 \begin_layout Standard
-Horizontal Component: 1.483 = 
-\begin_inset Formula $(Vocos\varTheta)(t)$
+Horizontal Component: 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $1.483=(Vocos\varTheta)(t)$
 \end_inset
 
 
