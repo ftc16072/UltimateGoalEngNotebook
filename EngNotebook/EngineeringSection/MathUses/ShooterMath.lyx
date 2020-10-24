@@ -82,10 +82,22 @@ Shooter Math
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing double
+
+\series bold
+\bar under
+Shooter Math
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing double
+
+\series bold
 Horizontal Displacement:
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing double
 \begin_inset Formula $\Delta x=V_{0}xtV_{0}$
 \end_inset
 
@@ -93,10 +105,20 @@ Horizontal Displacement:
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing double
+- The horizontal displacement is the movement of the projectile which in
+ our case is the ring
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing double
+
+\series bold
 Velocity for Horizontal Plane:
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing double
 \begin_inset Formula $Vx=V_{0}x$
 \end_inset
 
@@ -104,10 +126,19 @@ Velocity for Horizontal Plane:
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing double
+- The velocity for the horizontal plane is the horizontal motion
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing double
+
+\series bold
 Initial Velocity for Horizontal Plane:
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing double
 \begin_inset Formula $V_{0}x=cos\varTheta$
 \end_inset
 
@@ -115,10 +146,20 @@ Initial Velocity for Horizontal Plane:
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing double
+- The inital velocity for horizontal planeis the velocity before acceleration
+ occurs and causes a change in the horizontal plane
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing double
+
+\series bold
 Vertical displacement: 
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing double
 \begin_inset Formula $∆y=V_{0}sin\varTheta-\frac{1}{2}gt^{2}$
 \end_inset
 
@@ -126,10 +167,20 @@ Vertical displacement:
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing double
+- The vertical displacemetn is the vertical movement of the projectile (ring)
+ 
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing double
+
+\series bold
 Velocity for Vertical Plane:
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing double
 \begin_inset Formula $Vy=V_{0}y-gt$
 \end_inset
 
@@ -137,10 +188,19 @@ Velocity for Vertical Plane:
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing double
+- The velocity for the vertical plane is the vetical motion
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing double
+
+\series bold
 Initial Velocity for Vertical plane:
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing double
 \begin_inset Formula $V_{0}y=Vsin\varTheta$
 \end_inset
 
@@ -148,39 +208,20 @@ Initial Velocity for Vertical plane:
 \end_layout
 
 \begin_layout Standard
-Known Variables: 
+\paragraph_spacing double
+- The intial velocity for the vertical plane is the velocity before acceleration
+ occurs and causes a change in the vertical plane
 \end_layout
 
 \begin_layout Standard
-\begin_inset Formula $\Delta x=1.483meters$
-\end_inset
+\paragraph_spacing double
 
- 
-\end_layout
-
-\begin_layout Standard
-\begin_inset Formula $\Delta y=0.9552meters$
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-Unknown Variables: 
-\end_layout
-
-\begin_layout Standard
-\begin_inset Formula $\varTheta$
-\end_inset
-
-(theta), Vo(Velocity), t(time)
-\end_layout
-
-\begin_layout Standard
+\series bold
 Vertical Component: 
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing double
 \begin_inset Formula $0.9652=V_{0}sin\varTheta t-\frac{1}{2}(9.8)t^{2}$
 \end_inset
 
@@ -188,14 +229,72 @@ Vertical Component:
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing double
+- The vertical component of acceleration, the forces acting against the
+ vertical direction 
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing double
+
+\series bold
 Horizontal Component: 
 \end_layout
 
 \begin_layout Standard
+\paragraph_spacing double
 \begin_inset Formula $1.483=(Vocos\varTheta)(t)$
 \end_inset
 
 
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing double
+- The horizontal component of acceleration, the forces acting against the
+ horizontal direction 
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing double
+
+\series bold
+Known Variables: 
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing double
+\begin_inset Formula $\Delta x=1.483meters$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing double
+\begin_inset Formula $\Delta y=0.9552meters$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing double
+
+\series bold
+Unknown Variables: 
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing double
+\begin_inset Formula $\varTheta$
+\end_inset
+
+ (theta), 
+\begin_inset Formula $V_{0}$
+\end_inset
+
+ (Velocity), t (time)
 \end_layout
 
 \end_body
