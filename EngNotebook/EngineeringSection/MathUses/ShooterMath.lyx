@@ -106,8 +106,8 @@ Horizontal Displacement:
 
 \begin_layout Standard
 \paragraph_spacing double
-- The horizontal displacement is the movement of the projectile which in
- our case is the ring
+- The horizontal displacement is the horizontal movement of the projectile
+ which in our case is the ring
 \end_layout
 
 \begin_layout Standard
@@ -147,7 +147,7 @@ Initial Velocity for Horizontal Plane:
 
 \begin_layout Standard
 \paragraph_spacing double
-- The inital velocity for horizontal planeis the velocity before acceleration
+- The inital velocity for horizontal plane is the velocity before acceleration
  occurs and causes a change in the horizontal plane
 \end_layout
 
