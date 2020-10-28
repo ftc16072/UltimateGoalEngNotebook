@@ -150,6 +150,7 @@ fancypagestyle{plain}{}
 \begin_layout Standard
 \begin_inset CommandInset include
 LatexCommand input
+preview true
 filename "TitlePage.lyx"
 
 \end_inset
