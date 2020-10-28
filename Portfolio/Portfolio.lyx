@@ -150,7 +150,7 @@ fancypagestyle{plain}{}
 \begin_layout Standard
 \begin_inset CommandInset include
 LatexCommand input
-filename "Page1.lyx"
+filename "TitlePage.lyx"
 
 \end_inset
 
@@ -167,7 +167,7 @@ filename "Page1.lyx"
 \begin_layout Standard
 \begin_inset CommandInset include
 LatexCommand input
-filename "Page2.lyx"
+filename "TeamSummary.lyx"
 
 \end_inset
 
@@ -184,7 +184,7 @@ filename "Page2.lyx"
 \begin_layout Standard
 \begin_inset CommandInset include
 LatexCommand input
-filename "Page3.lyx"
+filename "TeamMembers.lyx"
 
 \end_inset
 
@@ -201,7 +201,7 @@ filename "Page3.lyx"
 \begin_layout Standard
 \begin_inset CommandInset include
 LatexCommand input
-filename "Page4.lyx"
+filename "Identity.lyx"
 
 \end_inset
 
@@ -218,7 +218,7 @@ filename "Page4.lyx"
 \begin_layout Standard
 \begin_inset CommandInset include
 LatexCommand input
-filename "Page5.lyx"
+filename "Outreach.lyx"
 
 \end_inset
 
@@ -235,7 +235,7 @@ filename "Page5.lyx"
 \begin_layout Standard
 \begin_inset CommandInset include
 LatexCommand input
-filename "Page6.lyx"
+filename "Finances.lyx"
 
 \end_inset
 
@@ -252,7 +252,7 @@ filename "Page6.lyx"
 \begin_layout Standard
 \begin_inset CommandInset include
 LatexCommand input
-filename "Page7.lyx"
+filename "Experts.lyx"
 
 \end_inset
 
@@ -269,7 +269,7 @@ filename "Page7.lyx"
 \begin_layout Standard
 \begin_inset CommandInset include
 LatexCommand input
-filename "Page8.lyx"
+filename "Goals.lyx"
 
 \end_inset
 
@@ -286,7 +286,7 @@ filename "Page8.lyx"
 \begin_layout Standard
 \begin_inset CommandInset include
 LatexCommand input
-filename "Page9.lyx"
+filename "DesignProcess.lyx"
 
 \end_inset
 
@@ -303,7 +303,7 @@ filename "Page9.lyx"
 \begin_layout Standard
 \begin_inset CommandInset include
 LatexCommand input
-filename "Page10.lyx"
+filename "DesignProcess2.lyx"
 
 \end_inset
 
@@ -320,7 +320,7 @@ filename "Page10.lyx"
 \begin_layout Standard
 \begin_inset CommandInset include
 LatexCommand input
-filename "Page11.lyx"
+filename "Math.lyx"
 
 \end_inset
 
@@ -337,7 +337,7 @@ filename "Page11.lyx"
 \begin_layout Standard
 \begin_inset CommandInset include
 LatexCommand input
-filename "Page12.lyx"
+filename "CadDesign.lyx"
 
 \end_inset
 
@@ -354,7 +354,7 @@ filename "Page12.lyx"
 \begin_layout Standard
 \begin_inset CommandInset include
 LatexCommand input
-filename "Page13.lyx"
+filename "RobotState.lyx"
 
 \end_inset
 
@@ -371,7 +371,7 @@ filename "Page13.lyx"
 \begin_layout Standard
 \begin_inset CommandInset include
 LatexCommand input
-filename "Page14.lyx"
+filename "Control.lyx"
 
 \end_inset
 
