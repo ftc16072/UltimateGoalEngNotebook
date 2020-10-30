@@ -86,24 +86,6 @@ status open
 
 \begin_layout Plain Layout
 
-% This needs to point to where your code is
-\end_layout
-
-\begin_layout Plain Layout
-
-
-\backslash
-newcommand*{
-\backslash
-codePath}{~/Projects/ftc16072/UltimateGoal20-21/TeamCode}
-\end_layout
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\begin_layout Plain Layout
-
 % Uncomment when you want doxygen
 \end_layout
 
@@ -111,9 +93,7 @@ codePath}{~/Projects/ftc16072/UltimateGoal20-21/TeamCode}
 
 
 \backslash
-input{
-\backslash
-codePath/doxygen/latex/refman.tex} 
+input{refman.tex} 
 \end_layout
 
 \end_inset
