@@ -5,6 +5,9 @@
 \save_transient_properties true
 \origin unavailable
 \textclass extbook
+\begin_preamble
+\input{EngineeringSection/Code/doxygen_preamble.tex}
+\end_preamble
 \use_default_options true
 \begin_modules
 customHeadersFooters
@@ -113,7 +116,7 @@ thechapter
 \end_layout
 
 \begin_layout Center Footer
-
+UltimateGoal 2020-2021
 \end_layout
 
 \begin_layout Right Footer
