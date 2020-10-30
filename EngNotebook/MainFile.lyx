@@ -5,6 +5,9 @@
 \save_transient_properties true
 \origin unavailable
 \textclass extbook
+\begin_preamble
+\input{EngineeringSection/Code/doxygen_preamble.tex}
+\end_preamble
 \use_default_options true
 \begin_modules
 customHeadersFooters
