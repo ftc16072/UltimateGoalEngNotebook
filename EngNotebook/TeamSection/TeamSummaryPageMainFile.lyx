@@ -91,19 +91,30 @@ This year, we used a tool called LyX or LaTeX to format our engineering
  Some of the things we have done are mentored an FLL Team (Team #825 the
  Quidditching Quetzalcoatli), taught students basic FLL programming, and
  presented at the FLL kickoff.
- We have a youtube channel in which we create helpful videos for FLL teams.
- We are planning to grow this community.
+ We have a youtube channel in which we create helpful videos for FLL teams
+ and we are planning to grow this community.
  Our team contacted many experts within a wide range to review our code
  and our CAD at certain points in the season.
- Software design panel: Howard Cochran from Badger Technologies, Chris Bollinger
- from Hebi Robotics, and Chris Svec from iRobot.
- Mechanical design panel: Augusto from John Deere, and a mechanical engineer
- from Caterpillar.
  
 \end_layout
 
 \begin_layout Standard
 
+\series bold
+Software design panel: 
+\series default
+Howard Cochran from Badger Technologies, Chris Bollinger from Hebi Robotics,
+ and Chris Svec from iRobot.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Mechanical design panel: 
+\series default
+Augusto from John Deere and Brad Hodges a mechanical engineer from Caterpillar
+ and Greg Anderton from John Deere
 \end_layout
 
 \end_body
