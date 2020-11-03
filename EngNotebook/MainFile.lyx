@@ -87,6 +87,10 @@ FTC #16072 Quantum Quacks
 \end_layout
 
 \begin_layout Center Header
+
+\end_layout
+
+\begin_layout Right Header
 \begin_inset ERT
 status open
 
@@ -94,17 +98,11 @@ status open
 
 
 \backslash
-thepart  - 
-\backslash
-thechapter
+leftmark
 \end_layout
 
 \end_inset
 
-
-\end_layout
-
-\begin_layout Right Header
 
 \end_layout
 
@@ -113,6 +111,18 @@ thechapter
 \end_layout
 
 \begin_layout Center Footer
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thepage
+\end_layout
+
+\end_inset
+
 
 \end_layout
 
