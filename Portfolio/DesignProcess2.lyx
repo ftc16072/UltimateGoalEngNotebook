@@ -86,24 +86,56 @@ When designing our mechanism to lift our wobbly goal, we did it in this
  order.
 \end_layout
 
-\begin_layout Standard
-1.
- Brainstorm ideas
+\begin_layout Enumerate
+\noindent
+Brainstorm ideas
 \end_layout
 
-\begin_layout Standard
-2.
- Build initial mechanism
+\begin_deeper
+\begin_layout Enumerate
+When brainstorming ideas, we made a list of charecteristics that our mechanism
+ needed to have.
+ Our robot needded to lift the wobbly goal over a 1 foot wall, so we designed
+ our mechanism to be 1 foot long so we could lift the wobbly goal over the
+ wall with a comfortable amount of space in between.
 \end_layout
 
-\begin_layout Standard
-3.
- Ask questions that have not been answered and improve on mechanisms
+\begin_deeper
+\begin_layout Enumerate
+Initial brainstorming
 \end_layout
 
-\begin_layout Standard
-4.
- Repeat
+\begin_layout Enumerate
+\begin_inset Graphics
+	filename DP2 math image.jpg
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Enumerate
+\noindent
+Build initial mechanism
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+When we were building this mechanism we had a 
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+\noindent
+Ask questions that have not been answered and improve on mechanisms
+\end_layout
+
+\begin_layout Enumerate
+\noindent
+Repeat
 \end_layout
 
 \end_body
