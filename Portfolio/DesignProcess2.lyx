@@ -124,7 +124,9 @@ Build initial mechanism
 
 \begin_deeper
 \begin_layout Enumerate
-When we were building this mechanism we had a 
+When we were building this mechanism we had a piece of 15 mm extrusion with
+ a servo dedicated for clamping onto the wobbly goal on one end and we had
+ a motor on the other end dedicated for rotating the entire mechanism
 \end_layout
 
 \end_deeper
@@ -133,10 +135,22 @@ When we were building this mechanism we had a
 Ask questions that have not been answered and improve on mechanisms
 \end_layout
 
+\begin_deeper
 \begin_layout Enumerate
-\noindent
-Repeat
+Our team wanted to know if the rotator motor could be replaced with a servo.
+ We tried this twice, once with a servo block surrounding it, and once without
+ a servo block.
+ We notoced that it worked with a servo block, but it did not work without
+ a servo block.
 \end_layout
 
+\begin_layout Enumerate
+Our team wanted to know if there was any way that we could save space on
+ our robot by modifying the mechanism, while it still fits our initial list.
+ We eventually built or mechanism in an S shape with multiple pieces of
+ extrusion instead of one singular piece.
+\end_layout
+
+\end_deeper
 \end_body
 \end_document
