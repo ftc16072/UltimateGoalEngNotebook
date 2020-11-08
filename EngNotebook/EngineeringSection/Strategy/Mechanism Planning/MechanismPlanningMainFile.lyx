@@ -77,11 +77,11 @@
 
 \begin_body
 
-\begin_layout Section
+\begin_layout Title
 Mechanism Planning
 \end_layout
 
-\begin_layout Standard
+\begin_layout Section
 Ideas for Wobbly Goal: 
 \end_layout
 
@@ -130,7 +130,8 @@ Big Brain Idea #10 - upside down wobbly goal let the weight tip it over
 \end_layout
 
 \begin_layout Standard
-Big brain Idea #11 - Rubberband trigger setup Rearm? 
+Big brain Idea #11 - Rubberband trigger setup.
+ Rearm? 
 \end_layout
 
 \begin_layout Standard
@@ -171,6 +172,66 @@ Big brain Idea #20 - Servo holds tube into a V shape
 
 \begin_layout Standard
 Big brain Idea #21 - 19 but with like foam or smth 
+\end_layout
+
+\begin_layout Section
+High Goal Shooter
+\end_layout
+
+\begin_layout Itemize
+Shooter mechanism mount 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Up/Down mechanism 
+\end_layout
+
+\begin_layout Itemize
+Swivel/Rotate 
+\end_layout
+
+\begin_layout Itemize
+Left/Right mechanism (Replaced by Chassis movement?
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Wheeled shooter (non-compliant)
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Shoot multi?? 
+\end_layout
+
+\begin_layout Itemize
+Can’t put too much compression on wheels 
+\end_layout
+
+\begin_layout Itemize
+Turntable? - give it some range of motion 
+\end_layout
+
+\end_deeper
+\begin_layout Section
+Intake Concepts 
+\end_layout
+
+\begin_layout Itemize
+Top bar
+\end_layout
+
+\begin_layout Itemize
+Compliant wheel (35a 4in) gecko??? 
+\end_layout
+
+\begin_layout Itemize
+Foam roller 
+\end_layout
+
+\begin_layout Itemize
+3d printed tpu wheels 
 \end_layout
 
 \end_body
