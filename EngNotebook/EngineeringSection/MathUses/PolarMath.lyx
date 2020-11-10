@@ -4,7 +4,7 @@
 \begin_header
 \save_transient_properties true
 \origin unavailable
-\textclass scrbook
+\textclass article
 \use_default_options true
 \maintain_unincluded_children false
 \language english
@@ -29,7 +29,6 @@
 \bibtex_command default
 \index_command default
 \paperfontsize default
-\spacing single
 \use_hyperref false
 \papersize default
 \use_geometry false
@@ -45,7 +44,6 @@
 \use_package undertilde 1
 \cite_engine basic
 \cite_engine_type default
-\biblio_style plain
 \use_bibtopic false
 \use_indices false
 \paperorientation portrait
@@ -77,23 +75,15 @@
 
 \begin_body
 
-\begin_layout Title
-Experts
-\end_layout
-
-\begin_layout Section*
-CAD Experts
+\begin_layout Standard
+Polar Math
 \end_layout
 
 \begin_layout Standard
-In our mechanical review, we met with 3 experts to discuss our CAD models.
- The experts we met with were Greg Anderton, from John Deere, Brad Hodges,
- from Caterpillar, and Augusto Juarado, from John Deere.
- We had met with Augusto in our previous season, but met Greg and Brad this
- year.
- In our meeting with them, we learned how to strengthen the parts on our
- robot, learned how to simplify our designs, and learned how to refine our
- shooter.
+- The polar coordinates system is a two-dimensional coordinate system in
+ which each point on a plane is determined by a distance from a reference
+ point and an angle from a reference direction, expressed in either degres
+ or radians 
 \end_layout
 
 \end_body

@@ -98,7 +98,7 @@ Horizontal Displacement:
 
 \begin_layout Standard
 \paragraph_spacing double
-\begin_inset Formula $\Delta x=V_{0}xtV_{0}$
+\begin_inset Formula $\Delta x=V_{\emptyset}^{^{2}}xt$
 \end_inset
 
 
@@ -119,7 +119,7 @@ Velocity for Horizontal Plane:
 
 \begin_layout Standard
 \paragraph_spacing double
-\begin_inset Formula $Vx=V_{0}x$
+\begin_inset Formula $Vx=V_{\emptyset}x$
 \end_inset
 
 
@@ -139,7 +139,7 @@ Initial Velocity for Horizontal Plane:
 
 \begin_layout Standard
 \paragraph_spacing double
-\begin_inset Formula $V_{0}x=cos\varTheta$
+\begin_inset Formula $V_{\emptyset}x=cos\varTheta$
 \end_inset
 
 
@@ -160,7 +160,7 @@ Vertical displacement:
 
 \begin_layout Standard
 \paragraph_spacing double
-\begin_inset Formula $∆y=V_{0}sin\varTheta-\frac{1}{2}gt^{2}$
+\begin_inset Formula $∆y=V_{\emptyset}sin\varTheta-\frac{1}{2}gt^{2}$
 \end_inset
 
 
@@ -181,7 +181,7 @@ Velocity for Vertical Plane:
 
 \begin_layout Standard
 \paragraph_spacing double
-\begin_inset Formula $Vy=V_{0}y-gt$
+\begin_inset Formula $Vy=V_{\emptyset}y-gt$
 \end_inset
 
 
@@ -201,7 +201,7 @@ Initial Velocity for Vertical plane:
 
 \begin_layout Standard
 \paragraph_spacing double
-\begin_inset Formula $V_{0}y=Vsin\varTheta$
+\begin_inset Formula $V_{\emptyset}y=Vsin\varTheta$
 \end_inset
 
 
@@ -222,7 +222,7 @@ Vertical Component:
 
 \begin_layout Standard
 \paragraph_spacing double
-\begin_inset Formula $0.9652=V_{0}sin\varTheta t-\frac{1}{2}(9.8)t^{2}$
+\begin_inset Formula $0.9652=V_{\emptyset}sin\varTheta t-\frac{1}{2}(9.8)t^{2}$
 \end_inset
 
 
@@ -291,10 +291,20 @@ Unknown Variables:
 \end_inset
 
  (theta), 
-\begin_inset Formula $V_{0}$
+\begin_inset Formula $V_{\emptyset}$
 \end_inset
 
  (Velocity), t (time)
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename /Users/nithyagolla/Downloads/shootermath2.jpg
+	width 50page%
+
+\end_inset
+
+
 \end_layout
 
 \end_body
