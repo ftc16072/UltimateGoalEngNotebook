@@ -81,7 +81,7 @@
 Experts
 \end_layout
 
-\begin_layout Section*
+\begin_layout Section
 CAD Experts
 \end_layout
 
@@ -92,8 +92,26 @@ In our mechanical review, we met with 3 experts to discuss our CAD models.
  We had met with Augusto in our previous season, but met Greg and Brad this
  year.
  In our meeting with them, we learned how to strengthen the parts on our
- robot, learned how to simplify our designs, and learned how to refine our
- shooter.
+ robot, simplify our designs, and refine our shooter.
+ 
+\end_layout
+
+\begin_layout Section*
+Programming Experts 
+\end_layout
+
+\begin_layout Standard
+During out code review we met with Chris Bollinger from HEBI robotics, Howard
+ Cochran from Badger Technologies and, Chris Svec from iRobot.
+ We had the pleasure of introducing them all to FIRST and we learned a numerous
+ of skills including how to control components, present code for people
+ to easily understand it, the different types of sensors for odometry and
+ different control components.
+ 
+\end_layout
+
+\begin_layout Standard
+
 \end_layout
 
 \end_body
