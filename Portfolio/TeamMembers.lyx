@@ -77,13 +77,13 @@
 
 \begin_body
 
-\begin_layout Section
+\begin_layout Title
 Team Members
 \end_layout
 
 \begin_layout Standard
-Our team members each learned a lot this year- you can see our individual
- accomplishments and what we learned.
+FTC 16072 has learned a lot, this table lists our team members and what
+ we have learned.
 \end_layout
 
 \begin_layout Standard
@@ -91,7 +91,7 @@ Our team members each learned a lot this year- you can see our individual
 <lyxtabular version="3" rows="12" columns="2">
 <features tabularvalignment="middle">
 <column alignment="center" valignment="top">
-<column alignment="center" valignment="top">
+<column alignment="center" valignment="top" width="50page%">
 <row>
 <cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
 \begin_inset Text
@@ -126,7 +126,7 @@ Ryan
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+I started and will continue to learn more about CAD with Fusion 360.
 \end_layout
 
 \end_inset
@@ -166,7 +166,8 @@ Arjun
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+This year, I learned and am still learning, how to program in Java, cad
+ in Fusion 360, and learned how to make and edit documents in LyX.
 \end_layout
 
 \end_inset
@@ -186,7 +187,9 @@ Preeti
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+This year I learned a lot of CAD through Fusion 360 and implemented that
+ during a cadathon.
+ I've also strengthened my Java knowledge.
 \end_layout
 
 \end_inset
@@ -206,7 +209,8 @@ Nithya
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+This year I learned a lot about programming in Java, how to use CAD in Fusion
+ 360 and how to document in LyX.
 \end_layout
 
 \end_inset
@@ -226,7 +230,8 @@ Philip
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+This year I have learned/started learning: CAD and Rendering with Fusion
+ 360 LaTeX with Lyx More advanced Java OOP functions.
 \end_layout
 
 \end_inset
@@ -246,7 +251,8 @@ Teja
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+This year I learned how to program using Java, use CAD in Fusion 360 and
+ how to use LyX to edit texts.
 \end_layout
 
 \end_inset
@@ -286,7 +292,8 @@ Andrew
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+I learned more in depth CAD tools and designing mechanisms as well as transferri
+ng from Onshape to Fusion 360.
 \end_layout
 
 \end_inset
@@ -306,7 +313,9 @@ Chirag
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+I've learned a lot more about CAD with Fusion 360 through prototype designing
+ and an offseason cadathon.
+ I've also learned more about how CAD can be useful when modeling.
 \end_layout
 
 \end_inset
@@ -326,7 +335,8 @@ Eric
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+This year I learned a lot about how and when to use CAD as well as all the
+ different variables that need to be considered when designing in CAD.
 \end_layout
 
 \end_inset
