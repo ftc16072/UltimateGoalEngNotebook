@@ -81,5 +81,34 @@
 State of the Robot
 \end_layout
 
+\begin_layout Standard
+As of the Scrimmage the week of Nov.
+ 15, our robot has some key features:
+\end_layout
+
+\begin_layout Itemize
+A REV expansion and a REV control hub
+\end_layout
+
+\begin_layout Itemize
+A fully developed Chassis with Mechanum wheels
+\end_layout
+
+\begin_layout Itemize
+A intake, designed to take rings from the field
+\end_layout
+
+\begin_layout Itemize
+A transfer, designed to move rings directly from the intake to the shooter
+\end_layout
+
+\begin_layout Itemize
+A shooter that launches rings directly out of it.
+\end_layout
+
+\begin_layout Standard
+Images of our current 
+\end_layout
+
 \end_body
 \end_document
