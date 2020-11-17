@@ -96,7 +96,7 @@ In our mechanical review, we met with 3 experts to discuss our CAD models.
  
 \end_layout
 
-\begin_layout Section*
+\begin_layout Section
 Programming Experts 
 \end_layout
 
@@ -110,8 +110,22 @@ During out code review we met with Chris Bollinger from HEBI robotics, Howard
  
 \end_layout
 
-\begin_layout Standard
+\begin_layout Section
+More experts 
+\end_layout
 
+\begin_layout Standard
+Along with the experts already listed we also met with Adrienne Edgar from
+ Nutanix a non-stem expert.
+ She talked to use about team development, we got the chance to exposure
+ her to First and reconnect as it was our second year working with her.
+ Next we worked with Robert Couture a stem expert from 4th Vector Technologies.
+ He talked to us about vision, we were also able to expose him to First
+ and got him to sponsor our team for a second year in a row.
+ Lastly we worked with Jordan Liggit from Google, he talked to us about
+ git and the uses of it.
+ Along with the rest we introduced him to first and reconnected with him.
+ 
 \end_layout
 
 \end_body
