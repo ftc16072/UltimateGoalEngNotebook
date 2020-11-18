@@ -87,11 +87,21 @@ Quantum Quacks Goal making system:
 
 \begin_layout Standard
 Quantum Quacks uses a unique system to make goals.
- We have 3 levels
+ We have 3 levels of goals: Succesful, Great, and Excellent.
+ Succesful goals are goals that we must achieve, or we deem the season a
+ failure.
+ Great goals are goals that we would like to achieve to have a great season.
+ Excellent goals are goals that we would like to achieve to have the best
+ season possible.
+ These often have the most work, or are the hardest goals.
 \end_layout
 
 \begin_layout Subsection
 Examples:
+\end_layout
+
+\begin_layout Standard
+
 \end_layout
 
 \begin_layout Subsection
