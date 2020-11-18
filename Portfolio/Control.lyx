@@ -78,12 +78,127 @@
 \begin_body
 
 \begin_layout Section
-Control 
+Control
 \end_layout
 
-\begin_layout Standard
-
+\begin_layout Subsection
+Auto
 \end_layout
 
+\begin_layout Itemize
+Custom State Machine
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+This works by having multiple 
+\begin_inset Quotes eld
+\end_inset
+
+actions
+\begin_inset Quotes erd
+\end_inset
+
+.
+ Each of these actions has a run method, that when completed calls the next
+ action.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Navigation
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Currently, this is done very simply with two p controllers
+\end_layout
+
+\begin_layout Itemize
+Eventually however, we plan on writting a custom pure prusuit controller
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Starter Stack
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Currently nothing
+\end_layout
+
+\begin_layout Itemize
+We have talked to a Machine Vision expert about what he reccomends, and
+ based on that our plan is
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Open CV pipeline
+\end_layout
+
+\begin_layout Itemize
+this pipeline will blob color, and then based on the pixal size it will
+ compare to thresholds and determine starter stack heights
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Subsection
+Teleop
+\end_layout
+
+\begin_layout Itemize
+Field relative driving
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Our robot is driven field relative.
+ This mean that when we push a direction on our game pad, the robot drives
+ in that direction on the field.
+\end_layout
+
+\end_deeper
+\begin_layout Subsection
+Other
+\end_layout
+
+\begin_layout Itemize
+Polar
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+We have a Class that does Polar Math which allows us to do lots of cool
+ things if you want to see some of that look at our code in our Engineering
+ notebook
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Test Wiring
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+This allows us to write tests for each of our mechanisms to be able to test
+ them independently
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Aimer
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+We are working on math to be able to adjust our shooter angle based on distance
+ away from the goal, so that eventually we can shoot from more locations
+ on the field with less time fiddiling.=
+\end_layout
+
+\end_deeper
 \end_body
 \end_document
