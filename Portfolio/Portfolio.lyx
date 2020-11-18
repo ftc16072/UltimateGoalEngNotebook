@@ -83,10 +83,22 @@ customHeadersFooters
 \begin_body
 
 \begin_layout Left Header
-#16072 Quantum Quacks
+Quantum Quacks
 \end_layout
 
 \begin_layout Center Header
+
+\end_layout
+
+\begin_layout Right Header
+#16072 
+\end_layout
+
+\begin_layout Left Footer
+
+\end_layout
+
+\begin_layout Center Footer
 \begin_inset ERT
 status open
 
@@ -102,8 +114,7 @@ rightmark
 
 \end_layout
 
-\begin_layout Right Header
-Portfolio Page: 
+\begin_layout Right Footer
 \begin_inset ERT
 status open
 
@@ -116,18 +127,6 @@ thepage
 
 \end_inset
 
-
-\end_layout
-
-\begin_layout Left Footer
-
-\end_layout
-
-\begin_layout Center Footer
-
-\end_layout
-
-\begin_layout Right Footer
 
 \end_layout
 
