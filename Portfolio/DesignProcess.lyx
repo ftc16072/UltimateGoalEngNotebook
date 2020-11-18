@@ -81,5 +81,86 @@
 Design Process
 \end_layout
 
+\begin_layout Itemize
+First we discuss as a team about what we hope to accomplish.
+ 
+\end_layout
+
+\begin_layout Itemize
+Then we split into groups to identify our approach towards achieving this
+ goal
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename rdp1.png
+	width 15page%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+We utilize these approaches and come up with a combined strategy.
+ This strategy consists of the benefits and elimination of the negatives.
+ 
+\end_layout
+
+\begin_layout Itemize
+Then we prototype our preliminary solution into CAD.
+ This allows us to see what material we need and if the solution is viable
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename rdp2.png
+	width 15page%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+We review the CAD model and see if there are any issues.
+ We then fix these issues by making design changes.
+ If there are any differences in opinion in the design changes we prototype
+ both solutions.
+ We look at the effectiveness of both solutions and elect the superior model
+ or combine the positives of both.
+\end_layout
+
+\begin_layout Itemize
+We then create the prototype in real life by implementing what we have learned
+ in the initial CAD stages.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename rdp3.png
+	width 15page%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+We further test the effectiveness of the prototype in real life and continue
+ making changes.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename rdp4.png
+	width 15page%
+
+\end_inset
+
+
+\end_layout
+
 \end_body
 \end_document
