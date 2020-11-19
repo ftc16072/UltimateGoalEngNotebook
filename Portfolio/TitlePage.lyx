@@ -77,23 +77,40 @@
 
 \begin_body
 
-\begin_layout Title
-Engineering Portfolio
-\end_layout
-
-\begin_layout Author
-Quantum Quacks
-\end_layout
-
-\begin_layout Date
-Ultimate Goal 2020-2021
-\end_layout
-
 \begin_layout Standard
-\begin_inset Graphics
-	filename i-Lw5Brmk-X4-2.png
-	lyxscale 50
-	width 80text%
+\align center
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+{
+\backslash
+Huge Engineering Portfolio}
+\backslash
+
+\backslash
+[
+\backslash
+baselineskip]
+\end_layout
+
+\begin_layout Plain Layout
+
+{
+\backslash
+Huge Ultimate Goal 2020-2021}
+\backslash
+
+\backslash
+[
+\backslash
+baselineskip]
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
 
 \end_inset
 
@@ -104,7 +121,19 @@ Ultimate Goal 2020-2021
 \begin_inset Graphics
 	filename i-5XrtJQP-X3.jpg
 	lyxscale 50
-	width 90text%
+	width 80text%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename i-Lw5Brmk-X4-2.png
+	lyxscale 50
+	width 80text%
 
 \end_inset
 
