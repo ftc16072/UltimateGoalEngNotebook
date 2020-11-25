@@ -5,6 +5,9 @@
 \save_transient_properties true
 \origin unavailable
 \textclass extbook
+\begin_preamble
+\input{doxygen_preamble.tex}
+\end_preamble
 \use_default_options true
 \maintain_unincluded_children false
 \language english
@@ -78,10 +81,23 @@
 \begin_body
 
 \begin_layout Standard
-Code Main File
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+% Uncomment when you want doxygen
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
+
+
+\backslash
+input{refman.tex} 
+\end_layout
+
+\end_inset
+
 
 \end_layout
 
