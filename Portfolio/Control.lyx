@@ -115,7 +115,7 @@ Currently, this is done very simply with two p controllers
 \end_layout
 
 \begin_layout Itemize
-Eventually however, we plan on writting a custom pure prusuit controller
+Eventually, we plan on writting a custom pure prusuit controller
 \end_layout
 
 \end_deeper
@@ -125,7 +125,7 @@ Starter Stack
 
 \begin_deeper
 \begin_layout Itemize
-Currently nothing
+Currently we dont have anything but we plan on doing something
 \end_layout
 
 \begin_layout Itemize
@@ -196,7 +196,7 @@ Aimer
 \begin_layout Itemize
 We are working on math to be able to adjust our shooter angle based on distance
  away from the goal, so that eventually we can shoot from more locations
- on the field with less time fiddiling.=
+ on the field with less time fiddiling.
 \end_layout
 
 \end_deeper
