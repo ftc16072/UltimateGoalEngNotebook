@@ -77,7 +77,7 @@
 
 \begin_body
 
-\begin_layout Section*
+\begin_layout Title
 Team Summary Page 
 \end_layout
 
@@ -115,17 +115,6 @@ Mechanical design panel:
 \series default
 Augusto from John Deere and Brad Hodges a mechanical engineer from Caterpillar
  and Greg Anderton from John Deere
-\end_layout
-
-\begin_layout Standard
-\begin_inset Graphics
-	filename /Users/nikhil/Downloads/Team picture.png
-	scale 15
-	BoundingBox 0bp 0bp 2684bp 1362bp
-
-\end_inset
-
-
 \end_layout
 
 \end_body
