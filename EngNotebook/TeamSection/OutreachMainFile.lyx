@@ -173,6 +173,12 @@ North Carolina Robotics Coalition (NCRC)
 \end_layout
 
 \begin_layout Standard
+
+\series bold
+Established by:
+\end_layout
+
+\begin_layout Standard
 \begin_inset Tabular
 <lyxtabular version="3" rows="6" columns="3">
 <features tabularvalignment="middle">
@@ -271,7 +277,7 @@ Tundrabots
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+Ben
 \end_layout
 
 \end_inset
@@ -280,7 +286,7 @@ Tundrabots
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+PiRo Eagles
 \end_layout
 
 \end_inset
@@ -289,7 +295,7 @@ Tundrabots
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+#8300
 \end_layout
 
 \end_inset
@@ -300,7 +306,7 @@ Tundrabots
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+Sid
 \end_layout
 
 \end_inset
@@ -309,7 +315,7 @@ Tundrabots
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+Highly Combust
 \end_layout
 
 \end_inset
@@ -318,7 +324,7 @@ Tundrabots
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+#9548
 \end_layout
 
 \end_inset
@@ -329,7 +335,7 @@ Tundrabots
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+Philip
 \end_layout
 
 \end_inset
@@ -338,7 +344,7 @@ Tundrabots
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+Quantum Quacks
 \end_layout
 
 \end_inset
@@ -347,7 +353,7 @@ Tundrabots
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+#16072
 \end_layout
 
 \end_inset
@@ -362,6 +368,69 @@ Tundrabots
 
 \begin_layout Standard
 
+\series bold
+Goals:
+\end_layout
+
+\begin_layout Standard
+1.
+ Bridge the Raliegh/Triangle to Charlotte Gap.
+ 
+\end_layout
+
+\begin_layout Standard
+2.
+ Make North Carolina as competitive as Washington State by providing advanced
+ level classes and mentorship with design, mechanical, and programming to
+ teams across North Carolina.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Actions:
+\end_layout
+
+\begin_layout Standard
+1.
+ NCRC teams taught 4 new advanced level classes at the NC FTC kickoff.
+ (Basically Options, Scoring Mechaisms, Designing for a Consistent Autonomous,
+ Control Theory) 
+\end_layout
+
+\begin_layout Standard
+2.
+ NCRC hosted an Ultimate Goal Roundtable virtual meeting for all NC teams
+\end_layout
+
+\begin_layout Standard
+3.
+ NCRC has actively mentored other teams throughout the season on NC FTC
+ discord, and with in-person and virtual meetings to help teams work through
+ issues
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Results: 
+\end_layout
+
+\begin_layout Standard
+1.
+ The 2020-2021 season is hype 
+\end_layout
+
+\begin_layout Standard
+2.
+ NC held the Ultimate Goal World record in November (#8300 scored 258)
+\end_layout
+
+\begin_layout Standard
+3.
+ Last seaon only 2 teams used odometry this year 7 teams are actively using
+ odometry 
 \end_layout
 
 \end_body
