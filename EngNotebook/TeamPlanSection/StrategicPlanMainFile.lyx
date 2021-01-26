@@ -77,8 +77,109 @@
 
 \begin_body
 
-\begin_layout Standard
+\begin_layout Section
 Strategic Plan
+\end_layout
+
+\begin_layout Standard
+In order to complete our goals in an organized and efficient manner, we
+ use multiple tools to aid us in assigning and completing tasks.
+\end_layout
+
+\begin_layout Subsection
+ClickUp
+\end_layout
+
+\begin_layout Standard
+To organize our tasks, and decide what to complete next, we use a tool called
+ ClickUp (pictured below) , to manage and keep tracks of the tasks digitally.
+ ClickUp allows you to create 
+\begin_inset Quotes eld
+\end_inset
+
+spaces,
+\begin_inset Quotes erd
+\end_inset
+
+ where you can create folders to organize and group tasks together.
+ In each space, you can assign different statuses to tasks, like 
+\begin_inset Quotes eld
+\end_inset
+
+In progress,
+\begin_inset Quotes erd
+\end_inset
+
+ and 
+\begin_inset Quotes eld
+\end_inset
+
+Open.
+\begin_inset Quotes erd
+\end_inset
+
+ People can also assign themselves to tasks to indicate who's working on
+ what.
+ Flags can be used to indicate priority.
+ ClickUp's streamlined system allows for an efficient completion of tasks.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename clickupscreenshot.png
+	scale 25
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Above, you can see an example of a space- in this case, the FLL videos one.
+ You can see the different statuses of different videos.
+\end_layout
+
+\begin_layout Subsection
+Slack
+\end_layout
+
+\begin_layout Standard
+Slack is a great communication tool for our team, mainly because of it's
+ team oriented design, and integration with multiple other platform, including
+ e-mail, various social media apps, and even ClickUp.
+ Slack uses multiple 
+\begin_inset Quotes eld
+\end_inset
+
+channels
+\begin_inset Quotes erd
+\end_inset
+
+ to organize messages by topic, whether they be about programming or fundraising.
+ You can also create threads to continue a conversation about a specific
+ topic.
+\end_layout
+
+\begin_layout Subsection
+Team Organization
+\end_layout
+
+\begin_layout Standard
+Our team is organized with team heads, including the Coding head, CAD head,
+ Engineering Notebook Head and Outreach head.
+ Being a head allows the student to focus more attention and thought on
+ one topic, rather than spreading themselves thinly.
+ Heads still work with the 
+\begin_inset Quotes eld
+\end_inset
+
+everyone does everything
+\begin_inset Quotes erd
+\end_inset
+
+ concept, but they're more focused on a specific part of the team.
+ Team members with questions can also go to the corresponding head, to get
+ more information about their topic.
 \end_layout
 
 \end_body
