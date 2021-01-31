@@ -106,7 +106,7 @@ Additionally, we post regular videos regarding FLL and FTC to our Youtube
 \end_layout
 
 \begin_layout Standard
-We helped rookie FTC team 18175 understand different aspects about FTC through
+We helped rookie FTC team 18175 understand different aspects of FTC through
  a Zoom meeting.
 \end_layout
 
@@ -209,6 +209,8 @@ Established by:
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\series bold
 Name
 \end_layout
 
@@ -218,15 +220,19 @@ Name
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\series bold
 Team Name
 \end_layout
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\series bold
 Team #
 \end_layout
 
@@ -399,7 +405,7 @@ Goals:
 \begin_layout Standard
 2.
  Make North Carolina as competitive as Washington State by providing advanced
- level classes and mentorship with design, mechanical, and programming to
+ level classes and mentorship with design, mechanics, and programming to
  teams across North Carolina.
  
 \end_layout
