@@ -147,10 +147,159 @@ Above: An example of utilizing cad to design our scrimmage robot and layout
 Chassis:
 \end_layout
 
+\begin_layout Subsubsection*
+Chassis - 
+\end_layout
+
 \begin_layout Standard
 \begin_inset Graphics
-	filename chassis.png
-	lyxscale 75
+	filename /Users/tejasule/ftc16072/UltimateGoalLyx/EngNotebook/TeamSection/TeamImages/chassis.png
+	lyxscale 60
+	width 6cm
+	clip
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Cross Piece - 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename /Users/tejasule/ftc16072/UltimateGoalLyx/EngNotebook/TeamSection/TeamImages/cross piece.png
+	lyxscale 60
+	width 6cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Inner Panel - 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename /Users/tejasule/ftc16072/UltimateGoalLyx/EngNotebook/TeamSection/TeamImages/innerpanel.png
+	lyxscale 60
+	width 6cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Left Slant Assembly - 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename /Users/tejasule/ftc16072/UltimateGoalLyx/EngNotebook/TeamSection/TeamImages/left slant assembly.png
+	lyxscale 60
+	width 6cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Left Wheel Well - 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename ../../TeamSection/TeamImages/left wheel well.png
+	lyxscale 60
+	width 6cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Outside Panel - 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename ../../TeamSection/TeamImages/outside panel.png
+	lyxscale 60
+	width 6cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Right Slant Assembly - 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename ../../TeamSection/TeamImages/right slant assembly .png
+	lyxscale 60
+	width 6cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section*
+Electrical:
+\end_layout
+
+\begin_layout Subsubsection*
+Hubs and Battery - 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename ../../TeamSection/TeamImages/hubs and battery.png
+	lyxscale 60
+	width 6cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section*
+Intake:
+\end_layout
+
+\begin_layout Subsubsection*
+Intake - 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename ../../TeamSection/TeamImages/intake.png
+	lyxscale 60
+	width 6cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Intake Side Panels - 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename ../../TeamSection/TeamImages/side panel 1.png
+	lyxscale 60
+	width 6cm
 
 \end_inset
 
@@ -159,18 +308,141 @@ Chassis:
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename cross piece.png
-	lyxscale 75
+	filename ../../TeamSection/TeamImages/side panel 2.png
+	lyxscale 60
+	width 6cm
 
 \end_inset
 
 
 \end_layout
 
+\begin_layout Subsubsection*
+Mount for Intake - 
+\end_layout
+
 \begin_layout Standard
 \begin_inset Graphics
-	filename innerpanel.png
-	lyxscale 75
+	filename ../../TeamSection/TeamImages/intake mount.png
+	lyxscale 60
+	width 6cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section*
+Lower Transfer:
+\end_layout
+
+\begin_layout Subsubsection*
+Lower Transfer - 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename ../../TeamSection/TeamImages/lower transfer.png
+	lyxscale 60
+	width 6cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Transfer Mount - 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename ../../TeamSection/TeamImages/transfer mount.png
+	lyxscale 60
+	width 6cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Transfer Servo Mount - 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename ../../TeamSection/TeamImages/servo mount.png
+	lyxscale 60
+	width 6cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section*
+Shooter:
+\end_layout
+
+\begin_layout Subsubsection*
+Hopper - 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename ../../TeamSection/TeamImages/hopper.png
+	lyxscale 60
+	width 6cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Rear Mounting Bracket - 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename ../../TeamSection/TeamImages/rear mounting bracket.png
+	lyxscale 60
+	width 6cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Shooter - 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename ../../TeamSection/TeamImages/shooter.png
+	lyxscale 60
+	width 6cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section*
+Wobbly Goal:
+\end_layout
+
+\begin_layout Subsubsection*
+Wobbly Goal - 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename ../../TeamSection/TeamImages/wobbly goal.png
+	lyxscale 60
+	width 6cm
 
 \end_inset
 
