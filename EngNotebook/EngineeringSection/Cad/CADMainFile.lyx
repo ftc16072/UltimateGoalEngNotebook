@@ -143,5 +143,39 @@ Above: An example of utilizing cad to design our scrimmage robot and layout
  to interrupt the making of our mechanisms.
 \end_layout
 
+\begin_layout Section*
+Chassis:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename chassis.png
+	lyxscale 75
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename cross piece.png
+	lyxscale 75
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename innerpanel.png
+	lyxscale 75
+
+\end_inset
+
+
+\end_layout
+
 \end_body
 \end_document
