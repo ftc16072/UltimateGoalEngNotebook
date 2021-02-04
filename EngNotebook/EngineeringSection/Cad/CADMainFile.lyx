@@ -82,8 +82,8 @@ CAD
 \end_layout
 
 \begin_layout Standard
-We CAD our robot in order to preview what we want to build, before we build
- it with physical materials.
+We CAD our robot in order to preview and prototype what we want to build,
+ before we build it with physical materials.
  We also use CAD to design custom parts that can be used in a variety of
  scenarios, like creating an alliance marker holder.
  This year, we switched from OnShape to Fusion 360 to design and render
@@ -153,7 +153,7 @@ Chassis -
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename /Users/tejasule/ftc16072/UltimateGoalLyx/EngNotebook/TeamSection/TeamImages/chassis.png
+	filename C:/Users/tejasule/ftc16072/UltimateGoalLyx/EngNotebook/TeamSection/TeamImages/chassis.png
 	lyxscale 60
 	width 6cm
 	clip
@@ -169,7 +169,7 @@ Cross Piece -
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename /Users/tejasule/ftc16072/UltimateGoalLyx/EngNotebook/TeamSection/TeamImages/cross piece.png
+	filename C:/Users/tejasule/ftc16072/UltimateGoalLyx/EngNotebook/TeamSection/TeamImages/cross piece.png
 	lyxscale 60
 	width 6cm
 
@@ -184,7 +184,7 @@ Inner Panel -
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename /Users/tejasule/ftc16072/UltimateGoalLyx/EngNotebook/TeamSection/TeamImages/innerpanel.png
+	filename C:/Users/tejasule/ftc16072/UltimateGoalLyx/EngNotebook/TeamSection/TeamImages/innerpanel.png
 	lyxscale 60
 	width 6cm
 
@@ -199,7 +199,7 @@ Left Slant Assembly -
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename /Users/tejasule/ftc16072/UltimateGoalLyx/EngNotebook/TeamSection/TeamImages/left slant assembly.png
+	filename C:/Users/tejasule/ftc16072/UltimateGoalLyx/EngNotebook/TeamSection/TeamImages/left slant assembly.png
 	lyxscale 60
 	width 6cm
 
