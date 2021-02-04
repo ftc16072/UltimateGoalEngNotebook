@@ -77,10 +77,6 @@
 
 \begin_body
 
-\begin_layout Section
-CAD
-\end_layout
-
 \begin_layout Standard
 We CAD our robot in order to preview and prototype what we want to build,
  before we build it with physical materials.
@@ -153,7 +149,7 @@ Chassis -
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename C:/Users/tejasule/ftc16072/UltimateGoalLyx/EngNotebook/TeamSection/TeamImages/chassis.png
+	filename chassis.png
 	lyxscale 60
 	width 6cm
 	clip
@@ -169,7 +165,7 @@ Cross Piece -
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename C:/Users/tejasule/ftc16072/UltimateGoalLyx/EngNotebook/TeamSection/TeamImages/cross piece.png
+	filename cross piece.png
 	lyxscale 60
 	width 6cm
 
@@ -184,7 +180,7 @@ Inner Panel -
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename C:/Users/tejasule/ftc16072/UltimateGoalLyx/EngNotebook/TeamSection/TeamImages/innerpanel.png
+	filename innerpanel.png
 	lyxscale 60
 	width 6cm
 
@@ -199,7 +195,7 @@ Left Slant Assembly -
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename C:/Users/tejasule/ftc16072/UltimateGoalLyx/EngNotebook/TeamSection/TeamImages/left slant assembly.png
+	filename left slant assembly.png
 	lyxscale 60
 	width 6cm
 
@@ -214,7 +210,7 @@ Left Wheel Well -
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename ../../TeamSection/TeamImages/left wheel well.png
+	filename left wheel well.png
 	lyxscale 60
 	width 6cm
 
@@ -229,7 +225,7 @@ Outside Panel -
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename ../../TeamSection/TeamImages/outside panel.png
+	filename outside panel.png
 	lyxscale 60
 	width 6cm
 
@@ -244,7 +240,7 @@ Right Slant Assembly -
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename ../../TeamSection/TeamImages/right slant assembly .png
+	filename right slant assembly .png
 	lyxscale 60
 	width 6cm
 
@@ -263,7 +259,7 @@ Hubs and Battery -
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename ../../TeamSection/TeamImages/hubs and battery.png
+	filename hubs and battery.png
 	lyxscale 60
 	width 6cm
 
@@ -282,7 +278,7 @@ Intake -
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename ../../TeamSection/TeamImages/intake.png
+	filename intake.png
 	lyxscale 60
 	width 6cm
 
@@ -297,7 +293,7 @@ Intake Side Panels -
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename ../../TeamSection/TeamImages/side panel 1.png
+	filename side panel 1.png
 	lyxscale 60
 	width 6cm
 
@@ -308,7 +304,7 @@ Intake Side Panels -
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename ../../TeamSection/TeamImages/side panel 2.png
+	filename side panel 2.png
 	lyxscale 60
 	width 6cm
 
@@ -323,7 +319,7 @@ Mount for Intake -
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename ../../TeamSection/TeamImages/intake mount.png
+	filename intake mount.png
 	lyxscale 60
 	width 6cm
 
@@ -342,7 +338,7 @@ Lower Transfer -
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename ../../TeamSection/TeamImages/lower transfer.png
+	filename lower transfer.png
 	lyxscale 60
 	width 6cm
 
@@ -357,7 +353,7 @@ Transfer Mount -
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename ../../TeamSection/TeamImages/transfer mount.png
+	filename transfer mount.png
 	lyxscale 60
 	width 6cm
 
@@ -372,7 +368,7 @@ Transfer Servo Mount -
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename ../../TeamSection/TeamImages/servo mount.png
+	filename servo mount.png
 	lyxscale 60
 	width 6cm
 
@@ -391,7 +387,7 @@ Hopper -
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename ../../TeamSection/TeamImages/hopper.png
+	filename hopper.png
 	lyxscale 60
 	width 6cm
 
@@ -406,7 +402,7 @@ Rear Mounting Bracket -
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename ../../TeamSection/TeamImages/rear mounting bracket.png
+	filename rear mounting bracket.png
 	lyxscale 60
 	width 6cm
 
@@ -421,7 +417,7 @@ Shooter -
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename ../../TeamSection/TeamImages/shooter.png
+	filename shooter.png
 	lyxscale 60
 	width 6cm
 
@@ -440,7 +436,7 @@ Wobbly Goal -
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename ../../TeamSection/TeamImages/wobbly goal.png
+	filename wobbly goal.png
 	lyxscale 60
 	width 6cm
 
