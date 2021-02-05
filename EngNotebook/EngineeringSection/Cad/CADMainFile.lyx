@@ -159,6 +159,15 @@ Chassis -
 
 \end_layout
 
+\begin_layout Standard
+Above: This is outr custom chassis.
+ We decided to make a custom chassis this year because it would better fit
+ our mechanisms.
+ On our chassis, we use a set of mecanum wheels for better manuverability.
+ We also use custom side panels on our chassis.
+ To connect them we use cut pieces of goRAIL.
+\end_layout
+
 \begin_layout Subsubsection*
 Cross Piece - 
 \end_layout
@@ -172,6 +181,10 @@ Cross Piece -
 \end_inset
 
 
+\end_layout
+
+\begin_layout Standard
+Piece with motors perpendicular to the wheel well.
 \end_layout
 
 \begin_layout Subsubsection*
@@ -189,6 +202,10 @@ Inner Panel -
 
 \end_layout
 
+\begin_layout Standard
+Custom side panel for connecting to cross piece
+\end_layout
+
 \begin_layout Subsubsection*
 Left Slant Assembly - 
 \end_layout
@@ -202,6 +219,10 @@ Left Slant Assembly -
 \end_inset
 
 
+\end_layout
+
+\begin_layout Standard
+Left mecanum wheel assembly
 \end_layout
 
 \begin_layout Subsubsection*
@@ -219,6 +240,10 @@ Left Wheel Well -
 
 \end_layout
 
+\begin_layout Standard
+Left wheel well assembly, mirrored on the right side
+\end_layout
+
 \begin_layout Subsubsection*
 Outside Panel - 
 \end_layout
@@ -234,6 +259,10 @@ Outside Panel -
 
 \end_layout
 
+\begin_layout Standard
+Custom sidde panel for exterior of chassis
+\end_layout
+
 \begin_layout Subsubsection*
 Right Slant Assembly - 
 \end_layout
@@ -247,6 +276,10 @@ Right Slant Assembly -
 \end_inset
 
 
+\end_layout
+
+\begin_layout Standard
+Right mecanum wheel assembly
 \end_layout
 
 \begin_layout Section*
@@ -268,6 +301,13 @@ Hubs and Battery -
 
 \end_layout
 
+\begin_layout Standard
+This is our electrical box.
+ All of our wiring is done over here.
+ We have a Control Hub on the front and an Expansion Hub on the back.
+ We use the space in between them as a place to use as a battery mount.
+\end_layout
+
 \begin_layout Section*
 Intake:
 \end_layout
@@ -285,6 +325,15 @@ Intake -
 \end_inset
 
 
+\end_layout
+
+\begin_layout Standard
+Our intake is one of our mechanisms that uses custom parts.
+ We have custom side panels on it.
+ Along with that, we also use a set of GoBilda Gecko wheels to intake the
+ rings.
+ We use 2 inch Andymark compliant wheels as a roller to move the rings from
+ the intake to the transfer.
 \end_layout
 
 \begin_layout Subsubsection*
@@ -313,6 +362,10 @@ Intake Side Panels -
 
 \end_layout
 
+\begin_layout Standard
+Custom Side Panels
+\end_layout
+
 \begin_layout Subsubsection*
 Mount for Intake - 
 \end_layout
@@ -326,6 +379,10 @@ Mount for Intake -
 \end_inset
 
 
+\end_layout
+
+\begin_layout Standard
+Custom Mount
 \end_layout
 
 \begin_layout Section*
@@ -347,6 +404,10 @@ Lower Transfer -
 
 \end_layout
 
+\begin_layout Standard
+Custom Plate for Lower Transfer
+\end_layout
+
 \begin_layout Subsubsection*
 Transfer Mount - 
 \end_layout
@@ -362,6 +423,10 @@ Transfer Mount -
 
 \end_layout
 
+\begin_layout Standard
+Custom Mount
+\end_layout
+
 \begin_layout Subsubsection*
 Transfer Servo Mount - 
 \end_layout
@@ -375,6 +440,11 @@ Transfer Servo Mount -
 \end_inset
 
 
+\end_layout
+
+\begin_layout Standard
+We use a 1 hole piece of U-Channel to connect to the lower plate of the
+ transfer.
 \end_layout
 
 \begin_layout Section*
@@ -394,6 +464,10 @@ Hopper -
 \end_inset
 
 
+\end_layout
+
+\begin_layout Standard
+Our hopper is a custom piece that we use to collect rings in our shooter.
 \end_layout
 
 \begin_layout Subsubsection*
@@ -426,6 +500,11 @@ Shooter -
 
 \end_layout
 
+\begin_layout Standard
+Our shooter uses a gecko wheel in the back to get the ring going we then
+ use a rhino wheel to expel the ring out of our shooter with more force.
+\end_layout
+
 \begin_layout Section*
 Wobbly Goal:
 \end_layout
@@ -442,6 +521,10 @@ Wobbly Goal -
 
 \end_inset
 
+
+\end_layout
+
+\begin_layout Standard
 
 \end_layout
 
