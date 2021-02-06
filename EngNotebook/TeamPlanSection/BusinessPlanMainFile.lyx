@@ -94,6 +94,12 @@ Business Plan
 At the beginning of the season we made a list of goals that we wanted to
  accomplish and we divided it into different categories.
  You can check out our Season Goals page for more!!
+\backslash
+
+\end_layout
+
+\begin_layout Subsection
+Budget
 \end_layout
 
 \begin_layout Standard
@@ -113,6 +119,41 @@ At the beginning of the season, we developed 2 budget plans and with the
  We used the expenses from last year to be used as a reference to not put
  an unrealistic amount.
  We also set it up so that we will have some funds leftover for next year.
+\end_layout
+
+\begin_layout Standard
+Below are a couple of graphs that show our expenses and spending, along
+ with our conservative vs actual expenses.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename Income.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename chart.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename Actual vs Conservative Expenses.png
+	scale 50
+
+\end_inset
+
+
 \end_layout
 
 \end_body

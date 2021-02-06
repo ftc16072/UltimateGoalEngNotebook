@@ -136,21 +136,6 @@ filename "PreseasonGoalsMainFile.lyx"
 \end_layout
 
 \begin_layout Chapter
-Budget
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset include
-LatexCommand input
-preview true
-filename "BudgetMainFile.lyx"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Chapter
 Sustainability Plan
 \end_layout
 
